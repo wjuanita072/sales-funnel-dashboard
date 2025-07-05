@@ -1,69 +1,55 @@
-# sales-funnel-dashboard
-Excel-based sales dashboard project tracking cold call performance
+# 🔍 Sales Funnel Quota Project – 120% Attainment (Excel + CSV)
 
-# 🔍 Sales Funnel Analytics Dashboard (Excel + CSV Project)
-
-This project showcases a full-funnel sales performance analysis using Excel and CSV data. It includes lead tracking, deal progressions, team performance, and channel attribution — designed for fast insights and strategic decision-making.
+This is a personal sales analysis project where I used raw CRM-style lead data to optimize my sales funnel and close rate. The dashboard and analysis helped me exceed quota — hitting **120%** with a **60% close rate** from qualified leads. This project demonstrates my ability to clean data, build insightful dashboards, and use performance metrics to drive real results.
 
 ---
 
 ## 📁 Project Overview
 
-This dashboard tracks a simulated 50-lead outbound campaign across several digital channels (PPC, SEO, Referrals, and Email). It covers each lead’s journey from initial outreach to final outcome (Closed-Won or Closed-Lost), and provides insight into:
+Using 2 dataset of 50 outbound leads, I identified trends in objections, lead sources, and conversion speed to increase efficiency and maximize output. I created dashboards to analyze team performance, optimize my own process, and ultimately **exceed my personal quota.**
 
-- Sales rep performance
-- Lead source effectiveness
-- Funnel conversion rates
-- Common objections
-- Sales velocity and conversion lag
+This project highlights how I use data to:
+- Visualize the full sales funnel
+- Track rep performance (including my own)
+- Identify where conversions were breaking down
+- Make smart outreach decisions
+- Hit and exceed sales goals
 
 ---
 
 ## 📊 Files Included
 
-| File Name | Description |
-|----------|-------------|
-| `Lead Data.csv` | Raw funnel tracking data with lead source, objection, stage dates, and AE assignment |
-| `My Funnel.csv` | Cleaned subset of converted leads with deal values and key dates |
-| `Dashboard.csv` | Summary metrics (total leads, close rate, funnel stages, AE-specific conversion, and attribution by channel) |
-| `Personal Dashboard.csv` | Individual contributor performance snapshot |
+| File | Description |
+|------|-------------|
+| `Lead Data.csv` | Raw sales activity and funnel data (outreach, objections, AE assignment, etc.) |
+| `My Funnel.csv` | Cleaned dataset showing my personal leads, conversion timelines, and deal values |
+| `Dashboard.csv` | High-level team-wide funnel summary by lead source, AE, and outcome |
+| `Personal Dashboard.csv` | My personal quota tracker and performance dashboard (60% close rate, 120% quota)
 
 ---
 
 ## 🔧 Tools & Skills Used
 
-- **Excel**: Pivot tables, conditional formatting, dashboard creation
-- **Power BI (optional)**: Visualization-ready format for future integration
-- **CRM Simulation**: Lead lifecycle from outreach to closed status
-- **Data Cleaning**: Standardized source names, dates, and conversion flags
-- **Sales Ops Concepts**: Attribution modeling, funnel analysis, sales KPIs
+- **Excel**: Pivot tables, calculated metrics, funnel structuring
+- **CRM-style Data Cleaning**: Filtering by lead status, AE name, and outcome
+- **Quota Strategy**: Created a custom dashboard to stay focused and close high-value deals
+- **Funnel Metrics**: Conversion rates, objection breakdowns, deal value tracking
 
 ---
 
-## 💡 Key Metrics
+## 💡 Key Outcomes
 
-- **Total Leads:** 50  
-- **Closed-Won:** 29  
-- **Overall Close Rate:** 58%  
-- **Top Performing AE:** Ben B. (33.33% close rate)  
-- **Most Effective Channel:** SEO  
-- **Most Common Objection:** "Lack of Bandwidth" & "Pricing"
-
----
-
-## 🧠 Learning Objectives
-
-This project helped me demonstrate:
-- How to clean and transform CRM-style lead data
-- How to build a clear sales dashboard from scratch
-- How to analyze rep productivity, objection trends, and lead source ROI
-- How to structure Excel projects for tech-facing operations roles
+- ✅ **60% Close Rate** (from qualified leads)
+- ✅ **120% Quota Attainment**
+- 🔎 Identified top-performing channels (SEO & PPC)
+- 📉 Mapped common objections and impact on conversion
+- 📊 Built two dashboards to visualize sales performance and quota progress
 
 ---
 
 ## 📸 Preview
 
-> *(Insert a screenshot of your Excel dashboard here using the GitHub image uploader and add the image like below)*
+> *(Add a screenshot of your dashboard here, ideally with your quota progress visible)*
 
 ```markdown
-![Sales Funnel Dashboard Preview](dashboard-preview.png)
+![My Sales Dashboard](dashboard-preview.png)
